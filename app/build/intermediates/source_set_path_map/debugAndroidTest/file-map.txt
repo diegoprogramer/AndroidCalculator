@@ -1,0 +1,5 @@
+com.example.myapplicationnotas.test.app-androidTest-0 C:\Users\dalac\IntelliJIDEAProjects\MyApplicationNotas\app\build\generated\res\resValues\androidTest\debug
+com.example.myapplicationnotas.test.app-androidTest-1 C:\Users\dalac\IntelliJIDEAProjects\MyApplicationNotas\app\build\generated\res\rs\androidTest\debug
+com.example.myapplicationnotas.test.app-mergeDebugAndroidTestResources-2 C:\Users\dalac\IntelliJIDEAProjects\MyApplicationNotas\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.myapplicationnotas.test.app-mergeDebugAndroidTestResources-3 C:\Users\dalac\IntelliJIDEAProjects\MyApplicationNotas\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.myapplicationnotas.test.app-merged_res-4 C:\Users\dalac\IntelliJIDEAProjects\MyApplicationNotas\app\build\intermediates\merged_res\debugAndroidTest
