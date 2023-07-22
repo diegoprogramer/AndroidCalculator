@@ -825,6 +825,7 @@ int id beginning 0x7f07002d
 int id blocking 0x7f07002e
 int id bottom 0x7f07002f
 int id bounce 0x7f070030
+int id btnReset 0x7f0700dc
 int id btnSumar 0x7f070031
 int id buttonPanel 0x7f070032
 int id cache_measures 0x7f070033

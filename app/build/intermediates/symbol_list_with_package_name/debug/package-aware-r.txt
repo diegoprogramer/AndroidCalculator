@@ -826,6 +826,7 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btnReset
 id btnSumar
 id buttonPanel
 id cache_measures
