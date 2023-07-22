@@ -9,6 +9,8 @@ color teal_700
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id btnReset1
+id btnReset2
 id btnSumar
 id textView
 id textView4

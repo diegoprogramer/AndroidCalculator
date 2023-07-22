@@ -27,8 +27,14 @@ public class MainActivity extends AppCompatActivity {
             int num2 = Integer.parseInt(txtNumero2.getText().toString());
             int res = num1 + num2;
             txtResultado.setText(""+res);
-
-
-
     }
+
+    public void resetnum1(View view) {
+        txtNumero1.setText("");
+    }
+
+    public void resetnum2(View view) {
+        txtNumero2.setText("");
+    }
+
 }

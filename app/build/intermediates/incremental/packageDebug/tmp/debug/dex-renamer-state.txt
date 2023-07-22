@@ -1,4 +1,4 @@
-#Sun Jul 16 22:53:39 COT 2023
+#Fri Jul 21 23:58:25 COT 2023
 base.0=C\:\\Users\\dalac\\IntelliJIDEAProjects\\MyApplicationNotas\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\dalac\\IntelliJIDEAProjects\\MyApplicationNotas\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\dalac\\IntelliJIDEAProjects\\MyApplicationNotas\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
